@@ -1,0 +1,20 @@
+{
+  "name": "aniscrape-kissanime",
+  "version": "0.1.0",
+  "description": "KissAnime scraping module for aniscrape.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roflmuffin",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "cloudscraper": "^1.2.2",
+    "needle": "^1.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "aniscrape"
+  ]
+}
